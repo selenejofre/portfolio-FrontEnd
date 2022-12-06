@@ -1,7 +1,7 @@
 body {
     min-height: 70px;
     border-radius: 0 0 32px 0;
-    background: #ff50f0;
+    background: #ffaef8;
     top: 0;
     right: 0;
     left: 0;
@@ -22,4 +22,6 @@ h2 {
     font-family: Verdana, Tahoma, sans-serif;
     font-size: 25px;
 }
+
+/* navegador */
 
