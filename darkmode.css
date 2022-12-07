@@ -1,0 +1,12 @@
+/* switch */
+
+.switch {
+    background: #9b24e0;
+    border: none;
+    border-radius: 1000px;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    outline: none;
+}
+
